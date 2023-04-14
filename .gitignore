@@ -1,2 +1,2 @@
-plugins/sh_expander.ahk
 includes.ahk
+plugins/sh_*.ahk
