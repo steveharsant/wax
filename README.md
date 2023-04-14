@@ -1,8 +1,12 @@
 # WAX
 
-Windows Autohotkey eXtensions adds features not available out of the box for Microsoft Windows
+<p align="center">
+  Windows Autohotkey eXtensions adds features not available out of the box for Microsoft Windows
+</p>
 
-![Windows Autohotkey eXtensions logo](https://raw.githubusercontent.com/steveharsant/wax/main/icon.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/steveharsant/wax/main/icon.png" alt="Windows Autohotkey eXtensions logo">
+</p>
 
 ## Usage
 
