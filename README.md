@@ -12,6 +12,8 @@
 
 Download the [latest release](https://github.com/steveharsant/wax/releases) from the GitHub releases page and run. A tray icon will sit near the clock to let you know its running.
 
+> **Note:** For easy extendability without having to repackage, just run the wax.ahk script directly
+
 ## Default Plugins
 
 * **autocorrect:** A long list of commonly misspelled words and their corrections.
@@ -22,7 +24,7 @@ Download the [latest release](https://github.com/steveharsant/wax/releases) from
 
 ## Custom Plugins
 
-Simply create an AHK script, add it to the plugins directoy, and reload wax.
+Simply create an AHK script, add it to the plugins directoy, rebuild the binary (optional) and reload wax.
 
 ## Credits & Thanks
 
